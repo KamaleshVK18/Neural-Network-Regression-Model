@@ -83,7 +83,6 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 ```
 ## Dataset Information
 
-screenshot of the dataset
 <img width="160" height="269" alt="image" src="https://github.com/user-attachments/assets/9b5c05df-0a9d-4cac-87f1-fe35d774b0e2" />
 
 
