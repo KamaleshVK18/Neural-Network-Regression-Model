@@ -10,7 +10,8 @@ Explain the problem statement
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img width="1033" height="644" alt="image" src="https://github.com/user-attachments/assets/cd2442fd-1a95-47c2-9b1b-c2c48ff85bd9" />
+
 
 ## DESIGN STEPS
 
@@ -87,6 +88,8 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 
 ## OUTPUT
+<img width="435" height="274" alt="image" src="https://github.com/user-attachments/assets/ec845935-cdc1-4321-8ee7-5381977dbb92" />
+
 
 ### Training Loss Vs Iteration Plot
 
