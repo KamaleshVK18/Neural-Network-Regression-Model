@@ -6,7 +6,7 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+Develop and implement a Neural Network-based Regression Model using Deep Learning techniques to predict a continuous output variable from the given dataset.
 
 ## Neural Network Model
 
